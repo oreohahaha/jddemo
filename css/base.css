@@ -200,7 +200,7 @@ body {
 .main_menutwo {
 	width: 800px;
 	position: absolute;
-	left: 260px; 
+	left: 190px; 
 	z-index:1;	
 	background-color: #F7F7F7;
 	box-shadow: 1px 1px 5px #888888;
@@ -247,7 +247,7 @@ body {
 	float: left;
 	width: 790px;
 	height: 340px;
-	background-color: blue;
+	
 	margin: 0 10px 10px 10px;
 	/* top: -20px; */
 	position: relative;
